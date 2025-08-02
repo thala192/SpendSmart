@@ -1,4 +1,7 @@
 # Spend Smart 💰
+![Screenshot](./public/image1.png)
+![Screenshot](./public/image2.png)
+![Screenshot](./public/image3.png)
 
 **Spend Smart** is a full-stack budgeting tool crafted to help users monitor and manage their personal finances. It provides an intuitive interface for logging transactions, reviewing spending trends, and generating visual insights — all using modern web technologies.
 
