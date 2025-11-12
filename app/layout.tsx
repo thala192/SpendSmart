@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "SmartSpent",
-  description: "A Budget Tracker application",
+  description: "A Budget Tracker applications",
 };
 
 export default function RootLayout({
